@@ -1,2 +1,4 @@
-# tweaks
-Various customizations: Android, Debian.
+Various customizations:\
+Android\
+Debian\
+Emacs
